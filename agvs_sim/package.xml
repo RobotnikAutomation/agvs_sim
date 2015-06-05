@@ -12,6 +12,9 @@
   <author email="rguzman@robotnik.es">Roberto Guzmán</author>
   <author email="rnavarro@robotnik.es">Román Navarro</author>
   
+  <maintainer email="rguzman@robotnik.es">Roberto Guzmán</maintainer>
+  <maintainer email="rnavarro@robotnik.es">Román Navarro</maintainer>
+  
   <buildtool_depend>catkin</buildtool_depend>
 
   <run_depend>avgs_gazebo</run_depend>
