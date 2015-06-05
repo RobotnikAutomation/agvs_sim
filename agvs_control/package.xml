@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package>
+  <name>agvs_control</name>
+  <version>0.1.0</version>
+  <description>The agvs_control package. Config files used for Gazebo motor controllers.</description>
+
+  <maintainer email="rnavarro@robotnik.es">Román Navarro</maintainer>
+  <maintainer email="rguzman@robotnik.es">Roberto Guzmán</maintainer>
+
+
+  <license>BSD</license>
+
+  <url type="website">http://wiki.ros.org/agvs_control</url>
+  <url type="repository">https://github.com/RobotnikAutomation/agvs</url>
+  <url type="bugtracker">https://github.com/RobotnikAutomation/agvs/issues</url>
+
+  <author email="rguzman@robotnik.es">Roberto Guzmán</author>
+
+ 
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <export>
+  
+
+  </export>
+</package>
