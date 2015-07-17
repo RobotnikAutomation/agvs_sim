@@ -2,7 +2,7 @@
 <package>
   <name>agvs_sim_bringup</name>
   <version>0.1.0</version>
-  <description>The agvs_complete package. It contains multiple launch files to perform different tasks, from creating a map with gmapping to launching amcl.</description>
+  <description>The agvs_sim_bringup package. It contains multiple launch files to perform different tasks, from creating a map with gmapping to launching amcl.</description>
 
 
   <maintainer email="rguzman@robotnik.es">Roberto Guzmán</maintainer>
