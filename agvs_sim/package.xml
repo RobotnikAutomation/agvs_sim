@@ -2,12 +2,12 @@
 <package>
   <name>agvs_sim</name>
   <version>0.1.0</version>
-  <description>AVGS Gazebo simulation packages</description>
+  <description>agvs Gazebo simulation packages</description>
 
   <license>BSD</license>
 
-  <url type="website">http://ros.org/wiki/avgs_sim</url>
-  <url type="bugtracker">https://github.com/RobotnikAutomation/avgs_sim/issues</url>
+  <url type="website">http://ros.org/wiki/agvs_sim</url>
+  <url type="bugtracker">https://github.com/RobotnikAutomation/agvs_sim/issues</url>
 
   <author email="rguzman@robotnik.es">Roberto Guzmán</author>
   <author email="rnavarro@robotnik.es">Román Navarro</author>
@@ -17,10 +17,10 @@
   
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>avgs_gazebo</run_depend>
-  <run_depend>avgs_robot_control</run_depend>
-  <run_depend>avgs_control</run_depend>
-  <run_depend>avgs_sim_bringup</run_depend>
+  <run_depend>agvs_gazebo</run_depend>
+  <run_depend>agvs_robot_control</run_depend>
+  <run_depend>agvs_control</run_depend>
+  <run_depend>agvs_sim_bringup</run_depend>
 
   <export>
   </export>
