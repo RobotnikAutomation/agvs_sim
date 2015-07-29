@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>agvs_control</name>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <description>The agvs_control package. Config files used for Gazebo motor controllers.</description>
 
   <maintainer email="rnavarro@robotnik.es">Román Navarro</maintainer>

@@ -2,8 +2,8 @@
 Changelog for package agvs_robot_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2015-07-29)
+------------------
 * agvs_robot_control: Adding build and run dependencies
 * Adding changelogs for the release
 * Adding the install macro to the CMakelists
