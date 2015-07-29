@@ -2,8 +2,9 @@
 Changelog for package agvs_sim_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.1.0 (2015-07-17)
+Forthcoming
 -----------
+* Adding changelogs for the release
 * Adding the install macro to the CMakelists
 * Cleaning CMakelists and more
 * First indigo version commit
