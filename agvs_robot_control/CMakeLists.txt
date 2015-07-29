@@ -11,6 +11,9 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   tf
   ackermann_msgs
+  nav_msgs
+  diagnostic_msgs
+  diagnostic_updater
 )
 
 catkin_package(
@@ -22,6 +25,10 @@ catkin_package(
      std_msgs
      tf
      ackermann_msgs
+     nav_msgs
+     geometry_msgs
+     diagnostic_msgs
+     diagnostic_updater
 )
 
 include_directories(

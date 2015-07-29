@@ -26,6 +26,10 @@
   <build_depend>tf</build_depend>
   <build_depend>message_generation</build_depend>
   <build_depend>ackermann_msgs</build_depend>
+  <build_depend>nav_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>diagnostic_msgs</build_depend>
+  <build_depend>diagnostic_updater</build_depend>
   <run_depend>robotnik_msgs</run_depend>
   <run_depend>roscpp</run_depend>
   <run_depend>sensor_msgs</run_depend>
@@ -34,7 +38,10 @@
   <run_depend>tf</run_depend>
   <run_depend>message_runtime</run_depend>
   <run_depend>ackermann_msgs</run_depend>
-
+  <run_depend>nav_msgs</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>diagnostic_msgs</run_depend>
+  <run_depend>diagnostic_updater</run_depend>
   <export>
 
   </export>
