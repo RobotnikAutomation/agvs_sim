@@ -22,6 +22,6 @@
   <run_depend>agvs_control</run_depend>
   <run_depend>agvs_sim_bringup</run_depend>
 
-  <export>
-  </export>
+  <export><metapackage/></export>
+
 </package>
