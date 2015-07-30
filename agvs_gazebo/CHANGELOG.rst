@@ -2,6 +2,11 @@
 Changelog for package agvs_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* indigo-0.1.1
+* Redoing CHANGELOGS
+
 0.1.1 (2015-07-29)
 ------------------
 * agvs_gazebo: adding run dependency on agvs_pad and agvs_robot_control
