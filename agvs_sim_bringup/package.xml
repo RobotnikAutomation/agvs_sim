@@ -11,9 +11,9 @@
   <license>BSD</license>
 
 
-  <url type="website">http://wiki.ros.org/agvs_complete</url>
-  <url type="repository">https://github.com/RobotnikAutomation/agvs</url>
-  <url type="bugtracker">https://github.com/RobotnikAutomation/agvs/issues</url>
+  <url type="website">http://wiki.ros.org/agvs_sim_bringup</url>
+  <url type="repository">https://github.com/RobotnikAutomation/agvs_sim</url>
+  <url type="bugtracker">https://github.com/RobotnikAutomation/agvs_sim/issues</url>
 
 
   <author email="rnavarro@robotnik.es">Román Navarro</author> 
