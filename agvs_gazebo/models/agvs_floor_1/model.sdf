@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="agvs_floor_1">
+    <static>true</static>
+    <pose>0 0 0 0 0 0</pose>
+    <link name="walls">
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://agvs_floor_1/meshes/floor_1.dae</uri>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://agvs_floor_1/meshes/floor_1.dae</uri>
+          </mesh>
+        </geometry>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+    </link>
+    <link name="magnets">
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://agvs_floor_1/meshes/floor_magnets_1.dae</uri>
+          </mesh>
+        </geometry>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+    </link>
+  </model>
+</sdf>
