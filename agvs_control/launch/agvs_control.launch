@@ -9,7 +9,8 @@
                       joint_back_motor_wheel_controller
                       joint_front_motor_wheel_controller
                       joint_elevator_controller
-                      joint_read_state_controller 
+                      joint_read_state_controller
+                      --shutdown-timeout 1
                       "/>
 
   <!-- Load joint controller configurations from YAcd .ML file to parameter server -->
