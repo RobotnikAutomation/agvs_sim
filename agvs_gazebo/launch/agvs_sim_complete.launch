@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <launch>
 
-  <include file="$(find agvs_gazebo)/launch/agvs.launch" />
+  <arg name="world" default="agvs" />
+  <include file="$(find agvs_gazebo)/launch/$(arg world).launch" />
   
   <include file="$(find agvs_robot_control)/launch/agvs_robot_control.launch" />
   
