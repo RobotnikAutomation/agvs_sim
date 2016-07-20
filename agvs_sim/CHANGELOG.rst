@@ -4,6 +4,18 @@ Changelog for package agvs_sim
 
 Forthcoming
 -----------
+* Updating changelogs
+* agvs_sim: adding metapackage config
+* indigo-0.1.1
+* Redoing CHANGELOGS
+* Fixing error name on dependency
+* Adding changelogs for the release
+* Update package.xml
+* Update package.xml
+* Update CMakeLists.txt
+* First indigo version commit
+* Contributors: Elena Gambaro, ElenaFG, RomanRobotnik
+
 * agvs_sim: adding metapackage config
 * indigo-0.1.1
 * Redoing CHANGELOGS
