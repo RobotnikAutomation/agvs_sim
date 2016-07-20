@@ -2,8 +2,8 @@
 Changelog for package agvs_sim_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.2 (2016-07-20)
+------------------
 * agvs_gazebo: added world and launch files for agvs_floor_1 model
 * agvs_gazebo: added world and launch files for agvs_floor_1 model
 * Correcting repository urls and websites for some packages

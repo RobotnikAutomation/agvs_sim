@@ -2,8 +2,8 @@
 Changelog for package agvs_sim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.2 (2016-07-20)
+------------------
 * Updating changelogs
 * agvs_sim: adding metapackage config
 * indigo-0.1.1
