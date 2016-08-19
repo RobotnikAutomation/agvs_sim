@@ -2,6 +2,11 @@
 Changelog for package agvs_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fixed gazebo package.xml
+* Contributors: carlos3dx
+
 0.1.2 (2016-07-20)
 ------------------
 * agvs_gazebo: added world and launch files for agvs_floor_1 model
