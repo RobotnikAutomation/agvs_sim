@@ -2,8 +2,8 @@
 Changelog for package agvs_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.3 (2016-08-19)
+------------------
 * fixed gazebo package.xml
 * Contributors: carlos3dx
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>agvs_sim</name>
-  <version>0.1.2</version>
+  <version>0.1.3</version>
   <description>agvs Gazebo simulation packages</description>
 
   <license>BSD</license>
